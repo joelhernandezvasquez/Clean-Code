@@ -1,0 +1,9 @@
+Should have a descriptive names that reveals its intention from its name
+Name should be a verb
+Local variables have good names
+Should be small
+Should do only one thing
+Ideally to not have more than two params and if need more params pass it as object
+No Causing Side Effects
+Error Handling
+Function is DRY(Do not repeat yourself)
