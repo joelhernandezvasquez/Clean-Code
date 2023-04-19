@@ -29,5 +29,14 @@ GENERAL
 G1 Use explanatory Variables
 
 G2 Functions Names should say what they do
+
+G3 Replace Magic Numbers with Named Constants
+
+G4 Encapsulate Conditionals
+  boolean logic is hard enough to understand without having to see it in the context of an if or statement. Extract functions that explain the intent of the conditional.
+  
+G5 Functions should do only one thing.
+ 
+  
    
    
